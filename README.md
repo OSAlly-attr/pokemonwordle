@@ -1,1 +1,1 @@
-# pokemonwordle
+python_file には，WORDLEというゲームの
